@@ -1,0 +1,18 @@
+{
+  "components": {
+    "seeds": {
+      "car_configuration_models": {
+        "src": "src/seeds/car_configuration_models"
+      },
+      "Car_Configuration_Models": {
+        "src": "src/seeds/Car_Configuration_Models"
+      },
+      "Car_Configuration_Models_V2": {
+        "src": "src/seeds/Car_Configuration_Models_V2"
+      }
+    }
+  },
+  "dependencies": {
+    "seeds": {}
+  }
+}
