@@ -1,0 +1,30 @@
+{
+  "components": {
+    "seeds": {
+      "FamilyNames": {
+        "src": "src/seeds/FamilyNames"
+      },
+      "CarConfiguration": {
+        "src": "src/seeds/CarConfiguration"
+      }
+    },
+    "plugins": {
+      "FamilyTransformation": {
+        "src": "src/plugins/FamilyTransformation",
+        "test": "test/plugins/FamilyTransformation"
+      },
+      "TutorialPlugin": {
+        "src": "src/plugins/TutorialPlugin",
+        "test": "test/plugins/TutorialPlugin"
+      },
+      "MiniProject2": {
+        "src": "src/plugins/MiniProject2",
+        "test": "test/plugins/MiniProject2"
+      }
+    }
+  },
+  "dependencies": {
+    "seeds": {},
+    "plugins": {}
+  }
+}

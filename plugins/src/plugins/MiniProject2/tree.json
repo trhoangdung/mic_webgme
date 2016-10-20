@@ -1,0 +1,1932 @@
+{
+    "name": "ROOT",
+    "children": [
+        {
+            "id": "/1",
+            "name": "FCO",
+            "isMeta": "true",
+            "MetaType": "FCO",
+            "Connection": [],
+            "children": []
+        },
+        {
+            "id": "/p",
+            "name": "Example",
+            "isMeta": "false",
+            "MetaType": "Folder",
+            "Connection": [],
+            "children": [
+                {
+                    "id": "/p/t",
+                    "name": "Honda Accord 2016",
+                    "isMeta": "false",
+                    "MetaType": "Car Model",
+                    "Connection": [],
+                    "children": [
+                        {
+                            "id": "/p/t/0",
+                            "name": "Electrical Supplier and Battery",
+                            "isMeta": "false",
+                            "MetaType": "Electrical Supply System",
+                            "Connection": [],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/1",
+                            "name": "Connection",
+                            "isMeta": "false",
+                            "MetaType": "Connection",
+                            "Connection": [
+                                {
+                                    "SourceName": "Right Front Wheel",
+                                    "DestinationName": "Body"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/2",
+                            "name": "Connection",
+                            "isMeta": "false",
+                            "MetaType": "Connection",
+                            "Connection": [
+                                {
+                                    "SourceName": "Air Conditioner",
+                                    "DestinationName": "Body"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/3",
+                            "name": "Hood",
+                            "isMeta": "false",
+                            "MetaType": "Hood",
+                            "Connection": [],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/4",
+                            "name": "Connection",
+                            "isMeta": "false",
+                            "MetaType": "Connection",
+                            "Connection": [
+                                {
+                                    "SourceName": "Right Back Wheel",
+                                    "DestinationName": "Body"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/5",
+                            "name": "Connection",
+                            "isMeta": "false",
+                            "MetaType": "Connection",
+                            "Connection": [
+                                {
+                                    "SourceName": "Left Front Window",
+                                    "DestinationName": "Left Front Door"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/6",
+                            "name": "Connection",
+                            "isMeta": "false",
+                            "MetaType": "Connection",
+                            "Connection": [
+                                {
+                                    "SourceName": "Electrical Supplier and Battery",
+                                    "DestinationName": "Braking System"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/7",
+                            "name": "Connection",
+                            "isMeta": "false",
+                            "MetaType": "Connection",
+                            "Connection": [
+                                {
+                                    "SourceName": "Left Back Door",
+                                    "DestinationName": "Body"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/8",
+                            "name": "Back Window",
+                            "isMeta": "false",
+                            "MetaType": "Window",
+                            "Connection": [],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/9",
+                            "name": "Connection",
+                            "isMeta": "false",
+                            "MetaType": "Connection",
+                            "Connection": [
+                                {
+                                    "SourceName": "Suspension and Steering System",
+                                    "DestinationName": "Right Front Wheel"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/12",
+                            "name": "Exhaust System",
+                            "isMeta": "false",
+                            "MetaType": "Exhaust System",
+                            "Connection": [],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/29",
+                            "name": "Connection",
+                            "isMeta": "false",
+                            "MetaType": "Connection",
+                            "Connection": [
+                                {
+                                    "SourceName": "Electrical Supplier and Battery",
+                                    "DestinationName": "Ignition System"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/44",
+                            "name": "Connection",
+                            "isMeta": "false",
+                            "MetaType": "Connection",
+                            "Connection": [
+                                {
+                                    "SourceName": "Electrical Supplier and Battery",
+                                    "DestinationName": "Left Front Window"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/63",
+                            "name": "Connection",
+                            "isMeta": "false",
+                            "MetaType": "Connection",
+                            "Connection": [
+                                {
+                                    "SourceName": "Electrical Supplier and Battery",
+                                    "DestinationName": "Sunroof"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/74",
+                            "name": "Engine Oil System",
+                            "isMeta": "false",
+                            "MetaType": "Engine Oil System",
+                            "Connection": [],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/80",
+                            "name": "Left Front Chair",
+                            "isMeta": "false",
+                            "MetaType": "Car seat",
+                            "Connection": [],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/89",
+                            "name": "Connection",
+                            "isMeta": "false",
+                            "MetaType": "Connection",
+                            "Connection": [
+                                {
+                                    "SourceName": "Transmission System",
+                                    "DestinationName": "Engine"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/8g",
+                            "name": "Connection",
+                            "isMeta": "false",
+                            "MetaType": "Connection",
+                            "Connection": [
+                                {
+                                    "SourceName": "Suspension and Steering System",
+                                    "DestinationName": "Body"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/Nb",
+                            "name": "Connection",
+                            "isMeta": "false",
+                            "MetaType": "Connection",
+                            "Connection": [
+                                {
+                                    "SourceName": "Suspension and Steering System",
+                                    "DestinationName": "Left Front Wheel"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/1r",
+                            "name": "Connection",
+                            "isMeta": "false",
+                            "MetaType": "Connection",
+                            "Connection": [
+                                {
+                                    "SourceName": "Suspension and Steering System",
+                                    "DestinationName": "Left Back Wheel"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/k",
+                            "name": "Body",
+                            "isMeta": "false",
+                            "MetaType": "Body",
+                            "Connection": [],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/2F",
+                            "name": "Connection",
+                            "isMeta": "false",
+                            "MetaType": "Connection",
+                            "Connection": [
+                                {
+                                    "SourceName": "Suspension and Steering System",
+                                    "DestinationName": "Right Back Wheel"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/x",
+                            "name": "Left Back Wheel",
+                            "isMeta": "false",
+                            "MetaType": "Wheel",
+                            "Connection": [],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/p",
+                            "name": "Right Back Wheel",
+                            "isMeta": "false",
+                            "MetaType": "Wheel",
+                            "Connection": [],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/n",
+                            "name": "Left Front Wheel",
+                            "isMeta": "false",
+                            "MetaType": "Wheel",
+                            "Connection": [],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/B",
+                            "name": "Right Front Wheel",
+                            "isMeta": "false",
+                            "MetaType": "Wheel",
+                            "Connection": [],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/j9",
+                            "name": "Connection",
+                            "isMeta": "false",
+                            "MetaType": "Connection",
+                            "Connection": [
+                                {
+                                    "SourceName": "Left Back Wheel",
+                                    "DestinationName": "Body"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/m",
+                            "name": "Connection",
+                            "isMeta": "false",
+                            "MetaType": "Connection",
+                            "Connection": [
+                                {
+                                    "SourceName": "Left Front Wheel",
+                                    "DestinationName": "Body"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/s",
+                            "name": "Right Front Door",
+                            "isMeta": "false",
+                            "MetaType": "Door",
+                            "Connection": [],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/u",
+                            "name": "Connection",
+                            "isMeta": "false",
+                            "MetaType": "Connection",
+                            "Connection": [
+                                {
+                                    "SourceName": "Right Front Door",
+                                    "DestinationName": "Body"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/T",
+                            "name": "Right Back Door",
+                            "isMeta": "false",
+                            "MetaType": "Door",
+                            "Connection": [],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/i",
+                            "name": "Connection",
+                            "isMeta": "false",
+                            "MetaType": "Connection",
+                            "Connection": [
+                                {
+                                    "SourceName": "Right Back Door",
+                                    "DestinationName": "Body"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/J",
+                            "name": "Left Back Door",
+                            "isMeta": "false",
+                            "MetaType": "Door",
+                            "Connection": [],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/D",
+                            "name": "Left Front Door",
+                            "isMeta": "false",
+                            "MetaType": "Door",
+                            "Connection": [],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/h",
+                            "name": "Connection",
+                            "isMeta": "false",
+                            "MetaType": "Connection",
+                            "Connection": [
+                                {
+                                    "SourceName": "Left Front Door",
+                                    "DestinationName": "Body"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/Uv",
+                            "name": "Left Front Mirror",
+                            "isMeta": "false",
+                            "MetaType": "Mirror",
+                            "Connection": [],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/Y",
+                            "name": "Right Front Mirror",
+                            "isMeta": "false",
+                            "MetaType": "Mirror",
+                            "Connection": [],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/g",
+                            "name": "Connection",
+                            "isMeta": "false",
+                            "MetaType": "Connection",
+                            "Connection": [
+                                {
+                                    "SourceName": "Right Front Mirror",
+                                    "DestinationName": "Body"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/Q",
+                            "name": "Connection",
+                            "isMeta": "false",
+                            "MetaType": "Connection",
+                            "Connection": [
+                                {
+                                    "SourceName": "Left Front Mirror",
+                                    "DestinationName": "Body"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/d",
+                            "name": "Back Mirror",
+                            "isMeta": "false",
+                            "MetaType": "Mirror",
+                            "Connection": [],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/K",
+                            "name": "Connection",
+                            "isMeta": "false",
+                            "MetaType": "Connection",
+                            "Connection": [
+                                {
+                                    "SourceName": "Back Mirror",
+                                    "DestinationName": "Body"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/a",
+                            "name": "Connection",
+                            "isMeta": "false",
+                            "MetaType": "Connection",
+                            "Connection": [
+                                {
+                                    "SourceName": "Hood",
+                                    "DestinationName": "Body"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/C4",
+                            "name": "Front Bumper",
+                            "isMeta": "false",
+                            "MetaType": "Bumper",
+                            "Connection": [],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/e",
+                            "name": "Connection",
+                            "isMeta": "false",
+                            "MetaType": "Connection",
+                            "Connection": [
+                                {
+                                    "SourceName": "Front Bumper",
+                                    "DestinationName": "Body"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/W",
+                            "name": "Right Back Fender",
+                            "isMeta": "false",
+                            "MetaType": "Fender",
+                            "Connection": [],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/U",
+                            "name": "Connection",
+                            "isMeta": "false",
+                            "MetaType": "Connection",
+                            "Connection": [
+                                {
+                                    "SourceName": "Right Back Fender",
+                                    "DestinationName": "Body"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/L",
+                            "name": "Left Back Fender",
+                            "isMeta": "false",
+                            "MetaType": "Fender",
+                            "Connection": [],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/q",
+                            "name": "Connection",
+                            "isMeta": "false",
+                            "MetaType": "Connection",
+                            "Connection": [
+                                {
+                                    "SourceName": "Left Back Fender",
+                                    "DestinationName": "Body"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/y",
+                            "name": "Right Front Fender",
+                            "isMeta": "false",
+                            "MetaType": "Fender",
+                            "Connection": [],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/O",
+                            "name": "Connection",
+                            "isMeta": "false",
+                            "MetaType": "Connection",
+                            "Connection": [
+                                {
+                                    "SourceName": "Right Front Fender",
+                                    "DestinationName": "Body"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/fe",
+                            "name": "Left Front Fender",
+                            "isMeta": "false",
+                            "MetaType": "Fender",
+                            "Connection": [],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/pe",
+                            "name": "Connection",
+                            "isMeta": "false",
+                            "MetaType": "Connection",
+                            "Connection": [
+                                {
+                                    "SourceName": "Left Front Fender",
+                                    "DestinationName": "Body"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/A",
+                            "name": "Header",
+                            "isMeta": "false",
+                            "MetaType": "Header",
+                            "Connection": [],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/t",
+                            "name": "Connection",
+                            "isMeta": "false",
+                            "MetaType": "Connection",
+                            "Connection": [
+                                {
+                                    "SourceName": "Header",
+                                    "DestinationName": "Body"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/Aa",
+                            "name": "Grilles",
+                            "isMeta": "false",
+                            "MetaType": "Grilles",
+                            "Connection": [],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/Yo",
+                            "name": "Connection",
+                            "isMeta": "false",
+                            "MetaType": "Connection",
+                            "Connection": [
+                                {
+                                    "SourceName": "Grilles",
+                                    "DestinationName": "Body"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/x6",
+                            "name": "Radiator Support",
+                            "isMeta": "false",
+                            "MetaType": "Radiator",
+                            "Connection": [],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/o",
+                            "name": "Connection",
+                            "isMeta": "false",
+                            "MetaType": "Connection",
+                            "Connection": [
+                                {
+                                    "SourceName": "Radiator Support",
+                                    "DestinationName": "Body"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/V",
+                            "name": "Trunk",
+                            "isMeta": "false",
+                            "MetaType": "Trunk",
+                            "Connection": [],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/C",
+                            "name": "Connection",
+                            "isMeta": "false",
+                            "MetaType": "Connection",
+                            "Connection": [
+                                {
+                                    "SourceName": "Trunk",
+                                    "DestinationName": "Body"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/qQ",
+                            "name": "Step Bumper",
+                            "isMeta": "false",
+                            "MetaType": "Bumper",
+                            "Connection": [],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/vx",
+                            "name": "Connection",
+                            "isMeta": "false",
+                            "MetaType": "Connection",
+                            "Connection": [
+                                {
+                                    "SourceName": "Step Bumper",
+                                    "DestinationName": "Body"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/W6",
+                            "name": "Radiator",
+                            "isMeta": "false",
+                            "MetaType": "Radiator",
+                            "Connection": [],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/b",
+                            "name": "Connection",
+                            "isMeta": "false",
+                            "MetaType": "Connection",
+                            "Connection": [
+                                {
+                                    "SourceName": "Radiator",
+                                    "DestinationName": "Body"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/ti",
+                            "name": "A/C Consenders",
+                            "isMeta": "false",
+                            "MetaType": "A/C Consenders",
+                            "Connection": [],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/Oq",
+                            "name": "Connection",
+                            "isMeta": "false",
+                            "MetaType": "Connection",
+                            "Connection": [
+                                {
+                                    "SourceName": "A/C Consenders",
+                                    "DestinationName": "Body"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/S",
+                            "name": "Right Back Window",
+                            "isMeta": "false",
+                            "MetaType": "Window",
+                            "Connection": [],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/EM",
+                            "name": "Connection",
+                            "isMeta": "false",
+                            "MetaType": "Connection",
+                            "Connection": [
+                                {
+                                    "SourceName": "Right Back Window",
+                                    "DestinationName": "Right Back Door"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/j",
+                            "name": "Right Front Window",
+                            "isMeta": "false",
+                            "MetaType": "Window",
+                            "Connection": [],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/Db",
+                            "name": "Connection",
+                            "isMeta": "false",
+                            "MetaType": "Connection",
+                            "Connection": [
+                                {
+                                    "SourceName": "Right Front Window",
+                                    "DestinationName": "Right Front Door"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/c1",
+                            "name": "Left Back Window",
+                            "isMeta": "false",
+                            "MetaType": "Window",
+                            "Connection": [],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/lh",
+                            "name": "Connection",
+                            "isMeta": "false",
+                            "MetaType": "Connection",
+                            "Connection": [
+                                {
+                                    "SourceName": "Left Back Window",
+                                    "DestinationName": "Left Back Door"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/K3",
+                            "name": "Left Front Window",
+                            "isMeta": "false",
+                            "MetaType": "Window",
+                            "Connection": [],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/M",
+                            "name": "Front Window",
+                            "isMeta": "false",
+                            "MetaType": "Window",
+                            "Connection": [],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/Ln",
+                            "name": "Connection",
+                            "isMeta": "false",
+                            "MetaType": "Connection",
+                            "Connection": [
+                                {
+                                    "SourceName": "Front Window",
+                                    "DestinationName": "Body"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/f",
+                            "name": "Connection",
+                            "isMeta": "false",
+                            "MetaType": "Connection",
+                            "Connection": [
+                                {
+                                    "SourceName": "Back Window",
+                                    "DestinationName": "Body"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/X",
+                            "name": "Carpet",
+                            "isMeta": "false",
+                            "MetaType": "Carpet",
+                            "Connection": [],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/Pe",
+                            "name": "Connection",
+                            "isMeta": "false",
+                            "MetaType": "Connection",
+                            "Connection": [
+                                {
+                                    "SourceName": "Carpet",
+                                    "DestinationName": "Body"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/l",
+                            "name": "Back Chair",
+                            "isMeta": "false",
+                            "MetaType": "Car seat",
+                            "Connection": [],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/w",
+                            "name": "Connection",
+                            "isMeta": "false",
+                            "MetaType": "Connection",
+                            "Connection": [
+                                {
+                                    "SourceName": "Back Chair",
+                                    "DestinationName": "Body"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/I",
+                            "name": "Connection",
+                            "isMeta": "false",
+                            "MetaType": "Connection",
+                            "Connection": [
+                                {
+                                    "SourceName": "Left Front Chair",
+                                    "DestinationName": "Body"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/5s",
+                            "name": "Right Front Chair",
+                            "isMeta": "false",
+                            "MetaType": "Car seat",
+                            "Connection": [],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/Uz",
+                            "name": "Connection",
+                            "isMeta": "false",
+                            "MetaType": "Connection",
+                            "Connection": [
+                                {
+                                    "SourceName": "Right Front Chair",
+                                    "DestinationName": "Body"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/G",
+                            "name": "Sunroof",
+                            "isMeta": "false",
+                            "MetaType": "Window",
+                            "Connection": [],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/v",
+                            "name": "Connection",
+                            "isMeta": "false",
+                            "MetaType": "Connection",
+                            "Connection": [
+                                {
+                                    "SourceName": "Sunroof",
+                                    "DestinationName": "Body"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/P",
+                            "name": "Audio/Video System",
+                            "isMeta": "false",
+                            "MetaType": "Audio/Video Devices",
+                            "Connection": [],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/Z",
+                            "name": "Air Conditioner",
+                            "isMeta": "false",
+                            "MetaType": "Air Conditioning System",
+                            "Connection": [],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/5K",
+                            "name": "Connection",
+                            "isMeta": "false",
+                            "MetaType": "Connection",
+                            "Connection": [
+                                {
+                                    "SourceName": "Audio/Video System",
+                                    "DestinationName": "Body"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/Av",
+                            "name": "Left Back Light",
+                            "isMeta": "false",
+                            "MetaType": "Lighting and Signaling System",
+                            "Connection": [],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/NF",
+                            "name": "Connection",
+                            "isMeta": "false",
+                            "MetaType": "Connection",
+                            "Connection": [
+                                {
+                                    "SourceName": "Left Back Light",
+                                    "DestinationName": "Body"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/z",
+                            "name": "Right Back Light",
+                            "isMeta": "false",
+                            "MetaType": "Lighting and Signaling System",
+                            "Connection": [],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/Z3",
+                            "name": "Connection",
+                            "isMeta": "false",
+                            "MetaType": "Connection",
+                            "Connection": [
+                                {
+                                    "SourceName": "Right Back Light",
+                                    "DestinationName": "Body"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/c",
+                            "name": "Left Front Light",
+                            "isMeta": "false",
+                            "MetaType": "Lighting and Signaling System",
+                            "Connection": [],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/0I",
+                            "name": "Connection",
+                            "isMeta": "false",
+                            "MetaType": "Connection",
+                            "Connection": [
+                                {
+                                    "SourceName": "Left Front Light",
+                                    "DestinationName": "Body"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/pB",
+                            "name": "Right Front Light",
+                            "isMeta": "false",
+                            "MetaType": "Lighting and Signaling System",
+                            "Connection": [],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/g4",
+                            "name": "Connection",
+                            "isMeta": "false",
+                            "MetaType": "Connection",
+                            "Connection": [
+                                {
+                                    "SourceName": "Right Front Light",
+                                    "DestinationName": "Body"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/H",
+                            "name": "Braking System",
+                            "isMeta": "false",
+                            "MetaType": "Braking System",
+                            "Connection": [],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/AQ",
+                            "name": "Connection",
+                            "isMeta": "false",
+                            "MetaType": "Connection",
+                            "Connection": [
+                                {
+                                    "SourceName": "Braking System",
+                                    "DestinationName": "Body"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/Nx",
+                            "name": "Connection",
+                            "isMeta": "false",
+                            "MetaType": "Connection",
+                            "Connection": [
+                                {
+                                    "SourceName": "Braking System",
+                                    "DestinationName": "Right Back Wheel"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/kD",
+                            "name": "Connection",
+                            "isMeta": "false",
+                            "MetaType": "Connection",
+                            "Connection": [
+                                {
+                                    "SourceName": "Braking System",
+                                    "DestinationName": "Left Back Wheel"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/Xh",
+                            "name": "Connection",
+                            "isMeta": "false",
+                            "MetaType": "Connection",
+                            "Connection": [
+                                {
+                                    "SourceName": "Braking System",
+                                    "DestinationName": "Right Front Wheel"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/e5",
+                            "name": "Connection",
+                            "isMeta": "false",
+                            "MetaType": "Connection",
+                            "Connection": [
+                                {
+                                    "SourceName": "Braking System",
+                                    "DestinationName": "Left Front Wheel"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/hr",
+                            "name": "Engine",
+                            "isMeta": "false",
+                            "MetaType": "Engine Components",
+                            "Connection": [],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/co",
+                            "name": "Connection",
+                            "isMeta": "false",
+                            "MetaType": "Connection",
+                            "Connection": [
+                                {
+                                    "SourceName": "Engine",
+                                    "DestinationName": "Body"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/Ye",
+                            "name": "Fuel Supply System",
+                            "isMeta": "false",
+                            "MetaType": "Fuel Supply System",
+                            "Connection": [],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/hF",
+                            "name": "Connection",
+                            "isMeta": "false",
+                            "MetaType": "Connection",
+                            "Connection": [
+                                {
+                                    "SourceName": "Fuel Supply System",
+                                    "DestinationName": "Engine"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/7b",
+                            "name": "Connection",
+                            "isMeta": "false",
+                            "MetaType": "Connection",
+                            "Connection": [
+                                {
+                                    "SourceName": "Fuel Supply System",
+                                    "DestinationName": "Body"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/T5",
+                            "name": "Engine Cooling System",
+                            "isMeta": "false",
+                            "MetaType": "Engine Cooling System",
+                            "Connection": [],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/E",
+                            "name": "Connection",
+                            "isMeta": "false",
+                            "MetaType": "Connection",
+                            "Connection": [
+                                {
+                                    "SourceName": "Engine Cooling System",
+                                    "DestinationName": "Engine"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/dl",
+                            "name": "Connection",
+                            "isMeta": "false",
+                            "MetaType": "Connection",
+                            "Connection": [
+                                {
+                                    "SourceName": "Engine Oil System",
+                                    "DestinationName": "Engine"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/6e",
+                            "name": "Connection",
+                            "isMeta": "false",
+                            "MetaType": "Connection",
+                            "Connection": [
+                                {
+                                    "SourceName": "Engine",
+                                    "DestinationName": "Exhaust System"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/Ds",
+                            "name": "Ignition System",
+                            "isMeta": "false",
+                            "MetaType": "Ignition System",
+                            "Connection": [],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/gI",
+                            "name": "Connection",
+                            "isMeta": "false",
+                            "MetaType": "Connection",
+                            "Connection": [
+                                {
+                                    "SourceName": "Ignition System",
+                                    "DestinationName": "Engine"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/MP",
+                            "name": "Connection",
+                            "isMeta": "false",
+                            "MetaType": "Connection",
+                            "Connection": [
+                                {
+                                    "SourceName": "Engine",
+                                    "DestinationName": "Electrical Supplier and Battery"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/R",
+                            "name": "Connection",
+                            "isMeta": "false",
+                            "MetaType": "Connection",
+                            "Connection": [
+                                {
+                                    "SourceName": "Electrical Supplier and Battery",
+                                    "DestinationName": "Right Back Window"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/SE",
+                            "name": "Connection",
+                            "isMeta": "false",
+                            "MetaType": "Connection",
+                            "Connection": [
+                                {
+                                    "SourceName": "Electrical Supplier and Battery",
+                                    "DestinationName": "Right Front Window"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/N",
+                            "name": "Connection",
+                            "isMeta": "false",
+                            "MetaType": "Connection",
+                            "Connection": [
+                                {
+                                    "SourceName": "Electrical Supplier and Battery",
+                                    "DestinationName": "Right Back Light"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/hh",
+                            "name": "Connection",
+                            "isMeta": "false",
+                            "MetaType": "Connection",
+                            "Connection": [
+                                {
+                                    "SourceName": "Electrical Supplier and Battery",
+                                    "DestinationName": "Left Back Light"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/M7",
+                            "name": "Connection",
+                            "isMeta": "false",
+                            "MetaType": "Connection",
+                            "Connection": [
+                                {
+                                    "SourceName": "Electrical Supplier and Battery",
+                                    "DestinationName": "Left Back Window"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/LM",
+                            "name": "Connection",
+                            "isMeta": "false",
+                            "MetaType": "Connection",
+                            "Connection": [
+                                {
+                                    "SourceName": "Electrical Supplier and Battery",
+                                    "DestinationName": "Air Conditioner"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/Xc",
+                            "name": "Connection",
+                            "isMeta": "false",
+                            "MetaType": "Connection",
+                            "Connection": [
+                                {
+                                    "SourceName": "Electrical Supplier and Battery",
+                                    "DestinationName": "Audio/Video System"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/wO",
+                            "name": "Charging System",
+                            "isMeta": "false",
+                            "MetaType": "Charging System",
+                            "Connection": [],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/ZN",
+                            "name": "Connection",
+                            "isMeta": "false",
+                            "MetaType": "Connection",
+                            "Connection": [
+                                {
+                                    "SourceName": "Charging System",
+                                    "DestinationName": "Body"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/0y",
+                            "name": "Connection",
+                            "isMeta": "false",
+                            "MetaType": "Connection",
+                            "Connection": [
+                                {
+                                    "SourceName": "Electrical Supplier and Battery",
+                                    "DestinationName": "Charging System"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/z4",
+                            "name": "Connection",
+                            "isMeta": "false",
+                            "MetaType": "Connection",
+                            "Connection": [
+                                {
+                                    "SourceName": "Electrical Supplier and Battery",
+                                    "DestinationName": "Right Front Light"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/cP",
+                            "name": "Connection",
+                            "isMeta": "false",
+                            "MetaType": "Connection",
+                            "Connection": [
+                                {
+                                    "SourceName": "Electrical Supplier and Battery",
+                                    "DestinationName": "Left Front Light"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/fm",
+                            "name": "Gauges and Meters",
+                            "isMeta": "false",
+                            "MetaType": "Gauges and Meters",
+                            "Connection": [],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/Oa",
+                            "name": "Connection",
+                            "isMeta": "false",
+                            "MetaType": "Connection",
+                            "Connection": [
+                                {
+                                    "SourceName": "Gauges and Meters",
+                                    "DestinationName": "Body"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/r",
+                            "name": "Connection",
+                            "isMeta": "false",
+                            "MetaType": "Connection",
+                            "Connection": [
+                                {
+                                    "SourceName": "Electrical Supplier and Battery",
+                                    "DestinationName": "Gauges and Meters"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/th",
+                            "name": "Starting System",
+                            "isMeta": "false",
+                            "MetaType": "Starting System",
+                            "Connection": [],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/N2",
+                            "name": "Connection",
+                            "isMeta": "false",
+                            "MetaType": "Connection",
+                            "Connection": [
+                                {
+                                    "SourceName": "Starting System",
+                                    "DestinationName": "Engine"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/Em",
+                            "name": "Connection",
+                            "isMeta": "false",
+                            "MetaType": "Connection",
+                            "Connection": [
+                                {
+                                    "SourceName": "Starting System",
+                                    "DestinationName": "Ignition System"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/hH",
+                            "name": "Transmission System",
+                            "isMeta": "false",
+                            "MetaType": "Transmission System",
+                            "Connection": [],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/ED",
+                            "name": "Connection",
+                            "isMeta": "false",
+                            "MetaType": "Connection",
+                            "Connection": [
+                                {
+                                    "SourceName": "Electrical Supplier and Battery",
+                                    "DestinationName": "Starting System"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/2x",
+                            "name": "Connection",
+                            "isMeta": "false",
+                            "MetaType": "Connection",
+                            "Connection": [
+                                {
+                                    "SourceName": "Electrical Supplier and Battery",
+                                    "DestinationName": "Transmission System"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/tF",
+                            "name": "Connection",
+                            "isMeta": "false",
+                            "MetaType": "Connection",
+                            "Connection": [
+                                {
+                                    "SourceName": "Exhaust System",
+                                    "DestinationName": "Body"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/r1",
+                            "name": "Connection",
+                            "isMeta": "false",
+                            "MetaType": "Connection",
+                            "Connection": [
+                                {
+                                    "SourceName": "Electrical Supplier and Battery",
+                                    "DestinationName": "Body"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "id": "/p/t/Tj",
+                            "name": "Suspension and Steering System",
+                            "isMeta": "false",
+                            "MetaType": "Suspension and Steering System",
+                            "Connection": [],
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "/W",
+            "name": "Language",
+            "isMeta": "true",
+            "MetaType": "Language",
+            "Connection": [],
+            "children": [
+                {
+                    "id": "/W/0",
+                    "name": "Trunk",
+                    "isMeta": "true",
+                    "MetaType": "Trunk",
+                    "Connection": [],
+                    "children": []
+                },
+                {
+                    "id": "/W/1",
+                    "name": "Fuel Supply System",
+                    "isMeta": "true",
+                    "MetaType": "Fuel Supply System",
+                    "Connection": [],
+                    "children": []
+                },
+                {
+                    "id": "/W/3",
+                    "name": "Car Video Accessories",
+                    "isMeta": "true",
+                    "MetaType": "Car Video Accessories",
+                    "Connection": [],
+                    "children": []
+                },
+                {
+                    "id": "/W/4",
+                    "name": "Header",
+                    "isMeta": "true",
+                    "MetaType": "Header",
+                    "Connection": [],
+                    "children": []
+                },
+                {
+                    "id": "/W/5",
+                    "name": "Suspension and Steering System",
+                    "isMeta": "true",
+                    "MetaType": "Suspension and Steering System",
+                    "Connection": [],
+                    "children": []
+                },
+                {
+                    "id": "/W/6",
+                    "name": "Mirror",
+                    "isMeta": "true",
+                    "MetaType": "Mirror",
+                    "Connection": [],
+                    "children": []
+                },
+                {
+                    "id": "/W/8",
+                    "name": "Center console",
+                    "isMeta": "true",
+                    "MetaType": "Center console",
+                    "Connection": [],
+                    "children": []
+                },
+                {
+                    "id": "/W/9",
+                    "name": "Hood",
+                    "isMeta": "true",
+                    "MetaType": "Hood",
+                    "Connection": [],
+                    "children": []
+                },
+                {
+                    "id": "/W/u",
+                    "name": "Transmission System",
+                    "isMeta": "true",
+                    "MetaType": "Transmission System",
+                    "Connection": [],
+                    "children": []
+                },
+                {
+                    "id": "/W/Fh",
+                    "name": "Air Conditioning System",
+                    "isMeta": "true",
+                    "MetaType": "Air Conditioning System",
+                    "Connection": [],
+                    "children": []
+                },
+                {
+                    "id": "/W/d",
+                    "name": "Bearing",
+                    "isMeta": "true",
+                    "MetaType": "Bearing",
+                    "Connection": [],
+                    "children": []
+                },
+                {
+                    "id": "/W/Al",
+                    "name": "Hose",
+                    "isMeta": "true",
+                    "MetaType": "Hose",
+                    "Connection": [],
+                    "children": []
+                },
+                {
+                    "id": "/W/A",
+                    "name": "Folder",
+                    "isMeta": "true",
+                    "MetaType": "Folder",
+                    "Connection": [],
+                    "children": []
+                },
+                {
+                    "id": "/W/g",
+                    "name": "Car Model",
+                    "isMeta": "true",
+                    "MetaType": "Car Model",
+                    "Connection": [],
+                    "children": []
+                },
+                {
+                    "id": "/W/i",
+                    "name": "A/C Consenders",
+                    "isMeta": "true",
+                    "MetaType": "A/C Consenders",
+                    "Connection": [],
+                    "children": []
+                },
+                {
+                    "id": "/W/M",
+                    "name": "Interior",
+                    "isMeta": "true",
+                    "MetaType": "Interior",
+                    "Connection": [],
+                    "children": []
+                },
+                {
+                    "id": "/W/E",
+                    "name": "Miscellaneous auto parts",
+                    "isMeta": "true",
+                    "MetaType": "Miscellaneous auto parts",
+                    "Connection": [],
+                    "children": []
+                },
+                {
+                    "id": "/W/D",
+                    "name": "Powertrain and Chassis",
+                    "isMeta": "true",
+                    "MetaType": "Powertrain and Chassis",
+                    "Connection": [],
+                    "children": []
+                },
+                {
+                    "id": "/W/p",
+                    "name": "Electrical and Electronics",
+                    "isMeta": "true",
+                    "MetaType": "Electrical and Electronics",
+                    "Connection": [],
+                    "children": []
+                },
+                {
+                    "id": "/W/h",
+                    "name": "Body and main parts",
+                    "isMeta": "true",
+                    "MetaType": "Body and main parts",
+                    "Connection": [],
+                    "children": []
+                },
+                {
+                    "id": "/W/S",
+                    "name": "Connection",
+                    "isMeta": "true",
+                    "MetaType": "Connection",
+                    "Connection": [
+                        {
+                            "SourceName": "",
+                            "DestinationName": ""
+                        }
+                    ],
+                    "children": []
+                },
+                {
+                    "id": "/W/B",
+                    "name": "Body",
+                    "isMeta": "true",
+                    "MetaType": "Body",
+                    "Connection": [],
+                    "children": []
+                },
+                {
+                    "id": "/W/s",
+                    "name": "Bumper",
+                    "isMeta": "true",
+                    "MetaType": "Bumper",
+                    "Connection": [],
+                    "children": []
+                },
+                {
+                    "id": "/W/C",
+                    "name": "Door",
+                    "isMeta": "true",
+                    "MetaType": "Door",
+                    "Connection": [],
+                    "children": []
+                },
+                {
+                    "id": "/W/m",
+                    "name": "Fender",
+                    "isMeta": "true",
+                    "MetaType": "Fender",
+                    "Connection": [],
+                    "children": []
+                },
+                {
+                    "id": "/W/y",
+                    "name": "Grilles",
+                    "isMeta": "true",
+                    "MetaType": "Grilles",
+                    "Connection": [],
+                    "children": []
+                },
+                {
+                    "id": "/W/f",
+                    "name": "Wheel",
+                    "isMeta": "true",
+                    "MetaType": "Wheel",
+                    "Connection": [],
+                    "children": []
+                },
+                {
+                    "id": "/W/j",
+                    "name": "Radiator",
+                    "isMeta": "true",
+                    "MetaType": "Radiator",
+                    "Connection": [],
+                    "children": []
+                },
+                {
+                    "id": "/W/I",
+                    "name": "Window",
+                    "isMeta": "true",
+                    "MetaType": "Window",
+                    "Connection": [],
+                    "children": []
+                },
+                {
+                    "id": "/W/V",
+                    "name": "Car seat",
+                    "isMeta": "true",
+                    "MetaType": "Car seat",
+                    "Connection": [],
+                    "children": []
+                },
+                {
+                    "id": "/W/KZ",
+                    "name": "Carpet",
+                    "isMeta": "true",
+                    "MetaType": "Carpet",
+                    "Connection": [],
+                    "children": []
+                },
+                {
+                    "id": "/W/n",
+                    "name": "Roll cage",
+                    "isMeta": "true",
+                    "MetaType": "Roll cage",
+                    "Connection": [],
+                    "children": []
+                },
+                {
+                    "id": "/W/T",
+                    "name": "Trap",
+                    "isMeta": "true",
+                    "MetaType": "Trap",
+                    "Connection": [],
+                    "children": []
+                },
+                {
+                    "id": "/W/c",
+                    "name": "Lighting and Signaling System",
+                    "isMeta": "true",
+                    "MetaType": "Lighting and Signaling System",
+                    "Connection": [],
+                    "children": []
+                },
+                {
+                    "id": "/W/t",
+                    "name": "Audio/Video Devices",
+                    "isMeta": "true",
+                    "MetaType": "Audio/Video Devices",
+                    "Connection": [],
+                    "children": []
+                },
+                {
+                    "id": "/W/Q",
+                    "name": "Electrical Supply System",
+                    "isMeta": "true",
+                    "MetaType": "Electrical Supply System",
+                    "Connection": [],
+                    "children": []
+                },
+                {
+                    "id": "/W/F",
+                    "name": "Ignition System",
+                    "isMeta": "true",
+                    "MetaType": "Ignition System",
+                    "Connection": [],
+                    "children": []
+                },
+                {
+                    "id": "/W/U",
+                    "name": "Charging System",
+                    "isMeta": "true",
+                    "MetaType": "Charging System",
+                    "Connection": [],
+                    "children": []
+                },
+                {
+                    "id": "/W/l",
+                    "name": "Gauges and Meters",
+                    "isMeta": "true",
+                    "MetaType": "Gauges and Meters",
+                    "Connection": [],
+                    "children": []
+                },
+                {
+                    "id": "/W/q",
+                    "name": "Starting System",
+                    "isMeta": "true",
+                    "MetaType": "Starting System",
+                    "Connection": [],
+                    "children": []
+                },
+                {
+                    "id": "/W/P",
+                    "name": "Miscellaneous ",
+                    "isMeta": "true",
+                    "MetaType": "Miscellaneous ",
+                    "Connection": [],
+                    "children": []
+                },
+                {
+                    "id": "/W/Fr",
+                    "name": "Braking System",
+                    "isMeta": "true",
+                    "MetaType": "Braking System",
+                    "Connection": [],
+                    "children": []
+                },
+                {
+                    "id": "/W/a",
+                    "name": "Engine Components",
+                    "isMeta": "true",
+                    "MetaType": "Engine Components",
+                    "Connection": [],
+                    "children": []
+                },
+                {
+                    "id": "/W/b",
+                    "name": "Engine Cooling System",
+                    "isMeta": "true",
+                    "MetaType": "Engine Cooling System",
+                    "Connection": [],
+                    "children": []
+                },
+                {
+                    "id": "/W/J",
+                    "name": "Engine Oil System",
+                    "isMeta": "true",
+                    "MetaType": "Engine Oil System",
+                    "Connection": [],
+                    "children": []
+                },
+                {
+                    "id": "/W/Z",
+                    "name": "Exhaust System",
+                    "isMeta": "true",
+                    "MetaType": "Exhaust System",
+                    "Connection": [],
+                    "children": []
+                }
+            ]
+        }
+    ]
+}
